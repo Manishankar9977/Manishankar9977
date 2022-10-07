@@ -1,5 +1,6 @@
 - 👋 Hello! I’m Mani shankar
 - 🎓  I'm currently pursuing B-tech in Artificial Intelligence at the SRM University.
+-  🌱  I'm on track for learning more about Artificial Intelligence.
 
 <!---
 Manishankar9977/Manishankar9977 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
