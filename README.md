@@ -1,5 +1,4 @@
 - 👋 Hello! I’m Mani shankar
--
 
 <!---
 Manishankar9977/Manishankar9977 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
